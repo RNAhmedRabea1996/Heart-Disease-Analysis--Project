@@ -9,6 +9,7 @@ Matplotlib).
 Heart Failure Prediction Dataset (Kaggle, by fedesoriano).
 12 clinical features per patient (age, sex, chest pain type, blood
 pressure, cholesterol, max heart rate, etc.).
+Source: [Heart Failure Prediction Dataset on Kaggle](PUT-LINK-HERE)
 
 ## Data Cleaning
 - 172 patients had Cholesterol = 0, which is physiologically impossible.
