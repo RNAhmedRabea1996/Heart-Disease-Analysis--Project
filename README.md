@@ -18,7 +18,7 @@ Source: [Heart Failure Prediction Dataset on Kaggle](PUT-LINK-HERE)
   random. Before cleaning, the data suggested patients had *lower*
   cholesterol, which was misleading.
 - 1 record with RestingBP = 0 was removed.
-
+![Correlation heatmap](heatmap.png)
 ## Key Findings
 - **Sex:** heart disease rate ~63% in men vs ~26% in women (only 193
   women in the sample).
